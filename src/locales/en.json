@@ -1,0 +1,9 @@
+{
+    "org.clipteam.extension.javascript.name": "JavaScript",
+    "org.clipteam.extension.javascript.category.name": "JavaScript",
+    "org.clipteam.extension.javascript.description": "JavaScript-powered extension.",
+    "org.clipteam.extension.javascript.run": "run JavaScript code: [CODE]",
+    "org.clipteam.extension.javascript.alert": "pop a alert dialog with message: [MESSAGE]",
+    "org.clipteam.extension.javascript.confirm": "pop a confirm dialog with message: [MESSAGE]",
+    "org.clipteam.extension.javascript.prompt": "pop a prompt dialog with message: [MESSAGE] and default value: [DEFAULT]"
+}
