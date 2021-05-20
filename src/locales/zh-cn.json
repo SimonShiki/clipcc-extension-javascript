@@ -5,5 +5,8 @@
     "org.clipteam.extension.javascript.run": "运行JavaScript代码: [CODE]",
     "org.clipteam.extension.javascript.alert": "弹出一个alert类型弹窗: [MESSAGE]",
     "org.clipteam.extension.javascript.confirm": "弹出一个confirm类型弹窗: [MESSAGE]",
-    "org.clipteam.extension.javascript.prompt": "弹出一个prompt类型弹窗: [MESSAGE] [DEFAULT]"
+    "org.clipteam.extension.javascript.prompt": "弹出一个prompt类型弹窗: [MESSAGE] [DEFAULT]",
+    "org.clipteam.extension.javascript.navigate": "跳转到 [URL]",
+    "org.clipteam.extension.javascript.upload": "获取上传文件内容",
+    "org.clipteam.extension.javascript.download": "下载文件 [FILENAME] [CONTENT]"
 }

@@ -5,5 +5,8 @@
     "org.clipteam.extension.javascript.run": "run JavaScript code: [CODE]",
     "org.clipteam.extension.javascript.alert": "pop a alert dialog with message: [MESSAGE]",
     "org.clipteam.extension.javascript.confirm": "pop a confirm dialog with message: [MESSAGE]",
-    "org.clipteam.extension.javascript.prompt": "pop a prompt dialog with message: [MESSAGE] and default value: [DEFAULT]"
+    "org.clipteam.extension.javascript.prompt": "pop a prompt dialog with message: [MESSAGE] and default value: [DEFAULT]",
+    "org.clipteam.extension.javascript.navigate": "navigate to [URL]",
+    "org.clipteam.extension.javascript.upload": "Upload content",
+    "org.clipteam.extension.javascript.download": "download a file [FILENAME] [CONTENT]"
 }
